@@ -10,3 +10,4 @@ openpyxl
 geopandas
 mnist
 sodapy
+python-dotenv
