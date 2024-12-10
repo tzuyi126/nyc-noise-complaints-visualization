@@ -1,0 +1,13 @@
+numpy
+altair
+pandas
+vega
+vega-datasets
+jupyter
+pyarrow
+fastparquet
+openpyxl
+geopandas
+mnist
+sodapy
+python-dotenv
